@@ -1,8 +1,7 @@
 <!-- Social Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <ul class="icons">
-  {%- if site.etsy_url -%}
-  <li><a href="{{- site.etsy_url -}}" class="fa fa-etsy"><span class="label"></span></a></li>
+  {%- if site.twitter_url -%}
+  <li><a href="{{- site.twitter_url -}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
   {%- endif -%}
   {%- if site.facebook_url -%}
   <li><a href="{{- site.facebook_url -}}" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -32,4 +31,3 @@
   <li><a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
 </ul>
-
