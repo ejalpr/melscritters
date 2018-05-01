@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Connect
 order: 4
 icon: fa-envelope
 auto-header: none
