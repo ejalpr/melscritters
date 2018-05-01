@@ -2,11 +2,11 @@
 layout: page
 title: Gallery
 order: 2
+cover-photo: /pictures/banner.jpg
+cover-photo-alt: banner
 permalink: /gallery
 icon: fa-image
 ---
-(This Gallery section can be as long or as short as you want. You can click on each picture to enlarge it.)
-(You can have separate galleries in the sidebar if you want to organize them further)
 <link rel="stylesheet" type="text/css" href="assets/css/collage.css">
 <link rel="stylesheet" type="text/css" href="assets/css/modal.css">
 <script type="text/javascript" src="assets/js/modal.js"></script>
