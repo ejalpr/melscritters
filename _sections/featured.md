@@ -1,7 +1,7 @@
 --- 
 title: Featured Critters
 order: 2
-icon: fa-image
+icon: fa-heart
 ---
 
 <style>
