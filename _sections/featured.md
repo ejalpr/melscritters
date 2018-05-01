@@ -13,9 +13,10 @@ icon: fa-image
 /* Position the image container (needed to position the left and right arrows) */
 .containersg {
   position: relative;
-  width: 50%;
+  width: 100%;
   margin: auto;
   background-color: #222;
+  max-width: 900px;
 }
 
 /* Hide the images by default */
