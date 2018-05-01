@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Handmade Plush Critters
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://melscritters.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_url: melscritters
 etsy_url: https://melscrittersshop.etsy.com/
 facebook_url: https://facebook.com/MelsCritters
 github_username:  ejalpr
