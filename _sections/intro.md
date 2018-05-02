@@ -4,7 +4,7 @@ order: 1
 cover-photo: /pictures/cover2.png
 cover-photo-alt: banner
 icon: fa-comment
-auto-header: Welcome to Mel's Critters
+auto-header: none
 ---
 <style>
 .btn {
@@ -36,6 +36,7 @@ auto-header: Welcome to Mel's Critters
 <a href="#connect" class="btn scrolly">Connect</a>
 <a href="https://melscrittersshop.etsy.com" class="btn">Etsy Shop</a>
 </div>
+<h2>Welcome to Mel's Critters</h2>
 
 
 
