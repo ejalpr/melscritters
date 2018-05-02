@@ -1,6 +1,6 @@
 ---
 title: Connect
-order: 4
+order: 5
 icon: fa-envelope
 auto-header: none
 ---
