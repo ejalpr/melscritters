@@ -113,23 +113,40 @@ icon: fa-heart
   opacity: 1;
 }
 
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
 </style>
 
 <div class="containersg">
 
-  <div class="mySlides">
+  <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
       <img src="/pictures/octopus_classof2018.jpg" style="width:100%" onclick="url()">
   </div>
-  <div class="mySlides">
+  <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
       <img src="/pictures/bunny_pink.jpg" style="width:100%" onclick="url()">
   </div>
-  <div class="mySlides">
+  <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
       <img src="/pictures/rat_angel.jpg" style="width:100%" onclick="url()">
   </div>
-  <div class="mySlides">
+  <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
       <img src="/pictures/bat_blackandwhite.jpg" style="width:100%" onclick="url()">
   </div>
