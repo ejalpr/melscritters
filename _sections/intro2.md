@@ -1,8 +1,10 @@
 ---
-title: Welcome to Mel's Critters
+title: Intro2
 order: 2
-cover-photo: /pictures/banner.jpg
+cover-photo: /pictures/octopus_classof2018.jpg
 cover-photo-alt: banner
+auto-header: Welcome to Mel's Critters
+
 ---
 
 <style>
