@@ -30,3 +30,6 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 
+window.setInterval(function(){
+  plusSlides(1)
+}, 5000);
