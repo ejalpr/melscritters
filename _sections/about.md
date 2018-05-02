@@ -36,15 +36,3 @@ let me quickly trace the pattern onto fabric. Because I'm a full time student, I
 time to sew or design new patterns. Sometimes I'll take down certain listings off my etsy shop so that I can 
 catch up on orders (or schoolwork or research), but I'll always put them back up eventually! I love what I 
 do, so I won't be stopping any time soon!
-
-### Get in Touch!
-
-I'm always happy to receive feedback, suggestions, or comments about my work, life, or anything! You can 
-like, follow, or comment on my facebook page at fb.com/MelsCritters, email me at mel@melscritters.com, or 
-message me on my etsy at MelsCrittersShop.etsy.com!
-
-<html>
-  <iframe src="https://maps.google.com/?ll=47.67209%2C-122.100622&amp;spn=0.233034%2C0.961304&amp;ie=UTF8&amp;hl=en_US&amp;z=10&amp;t=roadmap&amp;sll=47.67209%2C-122.100622&amp;sspn=0.233034%2C0.961304&amp;q=Redmond%2C%20WA%2C%20USA%20(Redmond)&amp;output=embed" 
-title="Redmond" width="100%" height="300" frameborder="0" class="map_embed" scrolling="no">
-  </iframe>
-</html>
