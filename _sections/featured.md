@@ -199,5 +199,7 @@ function url() {
   location.href= '/gallery';
 }
 
-setInterval(plusSlides(1), 1000);
+setInterval(function(){
+plusSlides(1);
+}, 1000);
 </script>
