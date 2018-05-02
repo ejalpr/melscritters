@@ -201,5 +201,5 @@ function url() {
 
 setInterval(function(){
 plusSlides(1);
-}, 1000);
+}, 10000);
 </script>
