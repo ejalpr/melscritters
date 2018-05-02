@@ -3,7 +3,7 @@ title: Intro2
 order: 2
 cover-photo: /pictures/octopus_classof2018.jpg
 cover-photo-alt: banner
-auto-header: none
+auto-header: Welcome to Mel's Critters
 
 ---
 
@@ -42,8 +42,4 @@ auto-header: none
 <button href="#connect" class="btn1 scrolly">Connect</button>
 <button onclick="location.href='https://melscrittersshop.etsy.com'" class="btn1">Etsy Shop</button>
 </div>
-
-<h2>Welcome to Mel's Critters</h2>
-
-
 
