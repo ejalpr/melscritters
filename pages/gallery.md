@@ -11,14 +11,16 @@ icon: fa-image
 <link rel="stylesheet" type="text/css" href="assets/css/modal.css">
 <script type="text/javascript" src="assets/js/modal.js"></script>
 
+<!-- INITIAL IMAGES -->
+
 <div class="row">
-  <div class="column">
+  <div class="column c1">
     <img src="/pictures/rat_couple.jpg" style="width:100%" onclick="openModal();currentSlide(9)" 
 class="hover-shadow">
     <img src="/pictures/rat_candycorn.jpg" style="width:100%" onclick="openModal();currentSlide(8)" 
 class="hover-shadow">
   </div>
-  <div class="column">
+  <div class="column c2">
     <img src="/pictures/bunny_spotted.jpg" style="width:100%" onclick="openModal();currentSlide(4)" 
 class="hover-shadow">
     <img src="/pictures/octopus_classof2018.jpg" style="width:100%" onclick="openModal();currentSlide(5)" 
@@ -26,13 +28,13 @@ class="hover-shadow">
     <img src="/pictures/bunny_pink.jpg" style="width:100%" onclick="openModal();currentSlide(3)" 
 class="hover-shadow">
   </div>
-  <div class="column">
+  <div class="column c3">
     <img src="/pictures/rat_assorted.jpg" style="width:100%" onclick="openModal();currentSlide(7)" 
 class="hover-shadow">
     <img src="/pictures/rat_angel.jpg" style="width:100%" onclick="openModal();currentSlide(6)" 
 class="hover-shadow">
   </div>
-  <div class="column">
+  <div class="column c4">
     <img src="/pictures/bat_blackandwhite.jpg" style="width:100%" onclick="openModal();currentSlide(1)" 
 class="hover-shadow">
     <img src="/pictures/bunny_jackalope.jpg" style="width:100%" onclick="openModal();currentSlide(2)" 
@@ -40,6 +42,7 @@ class="hover-shadow">
   </div>
 </div>
 
+<!-- END INITIAL IMAGES -->
 
 <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
