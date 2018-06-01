@@ -4,41 +4,42 @@ order: 1
 cover-photo: /pictures/cover2.png
 cover-photo-alt: banner
 icon: fa-comment
-auto-header: none
+auto-header: Welcome to Mel's Critters
 ---
+
 <style>
-.btn {
+.btn1 {
   border: 1px solid;
+  background-color: transparent;
   border-radius: 12px;
-  padding: 15px 32px;
-  margin: 0 2px;
+  padding: 0 32px;
+  font-size: 1em;
+  margin: 5px 5px;
   transition-duration: 0s;
-  line-height: 350%;
+  line-height: 200%;
+  font-weight: 100;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.btn:hover {
+.btn1:hover {
   background-color: rgba(231, 231, 231, .5);
+  
 }
 
-@media screen and (min-width: 0px) and (max-width: 950px) {
-  .mobile-nav { display: block; }  /* show it on small screens */
+@media screen and (min-width: 0px) and (max-width: 960px) {
+  .mobile-nav2 { display: block; }  /* show it on small screens */
 }
 
-@media screen and (min-width: 951px) and (max-width: 4096px) {
-  .mobile-nav { display: block; }   /* hide it elsewhere */
+@media screen and (min-width: 961px) and (max-width: 4096px) {
+  .mobile-nav2 { display: none; }   /* hide it elsewhere */
 }
 
 </style>
 
-<div class="mobile-nav">
-<a href="#about" class="btn scrolly">About</a>
-<a href="/gallery" class="btn">Gallery</a>
-<a href="#connect" class="btn scrolly">Connect</a>
-<a href="https://melscrittersshop.etsy.com" class="btn">Etsy Shop</a>
+<div class="mobile-nav2">
+<button href="#about" class="btn1 scrolly">About</button>
+<button onclick="location.href='/gallery'" class="btn1">Gallery</button>
+<button href="#connect" class="btn1 scrolly">Connect</button>
+<button onclick="location.href='https://melscrittersshop.etsy.com'" class="btn1">Etsy Shop</button>
 </div>
-<h2>Welcome to Mel's Critters</h2>
-
-
-
-
 
