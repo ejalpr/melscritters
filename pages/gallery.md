@@ -44,6 +44,8 @@ class="hover-shadow">
 
 <!-- END INITIAL IMAGES -->
 
+<!-- POPUP IMAGES -->
+
 <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
@@ -63,31 +65,29 @@ class="hover-shadow">
       <div class="numbertext">4 / 9</div>
       <img src="/pictures/bunny_spotted.jpg" style="width:100%">
     </div>
-    
     <div class="mySlides">
       <div class="numbertext">5 / 9</div>
       <img src="/pictures/octopus_classof2018.jpg" style="width:100%">
-    </div>
-    
+    </div>   
     <div class="mySlides">
       <div class="numbertext">6 / 9</div>
       <img src="/pictures/rat_angel.jpg" style="width:100%">
-    </div>
-    
+    </div>    
     <div class="mySlides">
       <div class="numbertext">7 / 9</div>
       <img src="/pictures/rat_assorted.jpg" style="width:100%">
-    </div>
-    
+    </div>    
     <div class="mySlides">
       <div class="numbertext">8 / 9</div>
       <img src="/pictures/rat_candycorn.jpg" style="width:100%">
-    </div>
-    
+    </div>    
     <div class="mySlides">
       <div class="numbertext">9 / 9</div>
       <img src="/pictures/rat_couple.jpg" style="width:100%">
     </div>
+    
+<!-- END POPUP IMAGES -->
+<!-- Some misc. formatting - skip -->
     
     <!-- Next/previous controls -->
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -97,6 +97,10 @@ class="hover-shadow">
       <p id="caption"></p>
     </div>
     <!-- Thumbnail image controls -->
+
+<!-- End misc. formatting -->
+
+<!-- CAPTIONS -->
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(1)" alt="Black and 
 White Bats">
@@ -111,13 +115,11 @@ Bunny">
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(4)" alt="Spotted 
 Bunny">
-    </div>
-    
+    </div>    
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(5)" alt="Graduation 
 Day">
-    </div>
-    
+    </div>    
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(6)" alt="Angel 
 Rats">
@@ -129,11 +131,12 @@ Rats">
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(8)" alt="Candy Corn 
 Rats">
-    </div>
-    
+    </div>    
     <div class="column">
       <img class="demo" src="/pictures/black.jpg" style="width:0%" onclick="currentSlide(9)" alt="Rat 
 Couple">
     </div>
+
+<!-- END CAPTIONS -->
     
   </div> </div>
