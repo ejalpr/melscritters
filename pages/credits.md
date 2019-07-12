@@ -5,7 +5,7 @@ hide: true
 ---
 ©Mel's Critters. All rights reserved.
 
-[Melscritters.com](http://melscritters.com) is maintained by [ejalpr](https://github.org/ejalpr)
+[Melscritters.com](http://melscritters.com) is maintained by [ejalpr](https://github.org/ejalpr). 07-12-2019
 
 Design: [HTML5 UP](https://html5up.net)
 
