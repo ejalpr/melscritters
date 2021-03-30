@@ -12,5 +12,3 @@ Design: [HTML5 UP](https://html5up.net)
 Jekyll integration: [Chris Bobbe](https://chrisbobbe.github.io)
 
 Banner Image: [Unsplash](https://unsplash.com)
-
-8:46
